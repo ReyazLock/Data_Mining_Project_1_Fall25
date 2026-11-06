@@ -1,0 +1,10 @@
+Data on ~500 ski resorts around the world, including details on their location, prices, slopes, lifts, and seasons, as well as a complementary table with the snow cover around the world for each month of 2022.
+
+Recommended Analysis
+Which countries have the most ski resorts? Are there noticable clusters?
+
+How do ski seasons vary by location? Does the snow cover reflect this?
+
+Which resorts have the highest mountain peaks and elevation changes?
+
+What are the best resorts for beginners? What about experts?
